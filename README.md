@@ -5,6 +5,7 @@
 ## Overview of the Analysis
 
 The original analysis was to provide the school board with some key indicators for each school. 
+
   •	Top 5 and bottom 5 performing schools, based on the overall passing rate
   •	The average math score received by students in each grade level at each school
   •	The average reading score received by students in each grade level at each school
