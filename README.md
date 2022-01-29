@@ -28,7 +28,7 @@ The second table shows the results without Thomas High School’s grade 9 studen
 <img width="449" alt="All Schools Without ninth grade Thomas School" src="https://user-images.githubusercontent.com/96399622/151647960-6bdaca27-ec69-4413-b275-a4bd86bfe981.PNG">
 
 
-    •	Overall, the results for the district were largely unaffected, as only a small subset of scores were replaced with “NaN. This function is a common way to represent     missing value. 
+    •	Overall, the results for the district were largely unaffected, as only a small subset of scores were replaced with “NaN. This function is a common way to represent  missing value. 
     
     •	At the school level, Thomas High School’s average math and reading scores, % passing math, % passing reading, and overall % passing were minimally affected. There was a 0.33% decrease in overall % passing between the original and second analysis.
     
